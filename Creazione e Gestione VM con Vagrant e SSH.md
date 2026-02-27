@@ -1,4 +1,4 @@
-# **Laboratorio di Sicurezza Informatica — Creazione e gestione VM con Vagrant e SSH**
+# **Laboratorio di Amministrazione di Sistemi — Creazione e gestione VM con Vagrant e SSH**
 
 **Docente:** Prof. Marco Prandini  
 **Argomento:** Protocollo Secure Shell (SSH), Autenticazione a chiave pubblica, Infrastructure as Code con Vagrant.
