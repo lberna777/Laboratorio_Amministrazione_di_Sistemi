@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "5f48d78ae24cbb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0180d3cebba01d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e58c1091aa339e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amministrazione di Sistemi/03 - Manuale Operativo Linux - Riga di Comando e Filtri (Integrato).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Manuale Operativo Linux - Riga di Comando e Filtri (Integrato)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b02baa6561731579",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9b45482bd462a6f3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Esplora risorse"
+        }
+      },
+      {
+        "id": "fa618d41c31563bc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Ricerca"
+        }
+      },
+      {
+        "id": "855e1702fca36ea6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etichette"
+        }
+      },
+      {
+        "id": "8ce906c8ea080619",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Tutte le proprietà"
+        }
+      },
+      {
+        "id": "176761bb605dc5d4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Segnalibri"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "ee1fe0283dec4cc7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "824716c787e70f69",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Riferimenti"
+        }
+      },
+      {
+        "id": "47a8cb0e106b9c0f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Collegamenti in uscita"
+        }
+      },
+      {
+        "id": "f5edd0893349f914",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Struttura"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9b45482bd462a6f3",
+  "lastOpenFiles": [
+    "Amministrazione di Sistemi/00 - Il Ruolo dell'Amministratore di Sistema e il Cloud Computing.md",
+    "Amministrazione di Sistemi/Indice.base",
+    "Amministrazione di Sistemi/01 - Introduzione al Corso e Setup del Laboratorio.md",
+    "Amministrazione di Sistemi/01 - Predisposizione del Proprio PC per le Esercitazioni.md",
+    "Amministrazione di Sistemi/04 - Gestione dei Pacchetti Software.md",
+    "Amministrazione di Sistemi/03 - Manuale Operativo Linux - Riga di Comando e Filtri (Integrato).md",
+    "Amministrazione di Sistemi/02 - Accesso all'Hardware e Configurazione dello Storage (Integrato).md",
+    "2026-03-03.md",
+    "Senza nome 1",
+    "Senza nome.canvas",
+    "Amministrazione di Sistemi"
+  ]
+}
