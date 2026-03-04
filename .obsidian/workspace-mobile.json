@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amministrazione di Sistemi/03 - Manuale Operativo Linux - Riga di Comando e Filtri (Integrato).md",
-                "mode": "source",
+                "file": "Amministrazione di Sistemi/02 - Accesso all'Hardware e Configurazione dello Storage (Integrato).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Manuale Operativo Linux - Riga di Comando e Filtri (Integrato)"
+              "title": "02 - Accesso all'Hardware e Configurazione dello Storage (Integrato)"
             }
           }
         ]
@@ -144,6 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Amministrazione di Sistemi/02 - Accesso all'Hardware e Configurazione dello Storage (Integrato).md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -167,15 +168,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b45482bd462a6f3",
+  "active": "97e58c1091aa339e",
   "lastOpenFiles": [
-    "Amministrazione di Sistemi/00 - Il Ruolo dell'Amministratore di Sistema e il Cloud Computing.md",
-    "Amministrazione di Sistemi/Indice.base",
-    "Amministrazione di Sistemi/01 - Introduzione al Corso e Setup del Laboratorio.md",
     "Amministrazione di Sistemi/01 - Predisposizione del Proprio PC per le Esercitazioni.md",
+    "Amministrazione di Sistemi/01 - Introduzione al Corso e Setup del Laboratorio.md",
     "Amministrazione di Sistemi/04 - Gestione dei Pacchetti Software.md",
     "Amministrazione di Sistemi/03 - Manuale Operativo Linux - Riga di Comando e Filtri (Integrato).md",
     "Amministrazione di Sistemi/02 - Accesso all'Hardware e Configurazione dello Storage (Integrato).md",
+    "Amministrazione di Sistemi/00 - Il Ruolo dell'Amministratore di Sistema e il Cloud Computing.md",
+    "Amministrazione di Sistemi/Indice.base",
     "2026-03-03.md",
     "Senza nome 1",
     "Senza nome.canvas",
